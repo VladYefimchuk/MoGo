@@ -1,0 +1,15 @@
+@media  (min-width: 768px) and (max-width: 1000px){
+    .navigation{
+        display: none!important;
+    }
+    .container_slogan__subtitle {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: white;
+    font-size: 90px;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 87px;
+    margin-top: 50px;
+}
+}
